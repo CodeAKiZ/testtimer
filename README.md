@@ -1,2 +1,2 @@
-# testtimer
-Timer als Beispiel
+# Gruppenzufallsgenerator
+Zufallsgenerator als Beispiel
